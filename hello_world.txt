@@ -1,2 +1,34 @@
 123456
 
+*T.T.L*
+
+Cloud
+AWS/GCC/AZURE
+
+Windows Server Administration / AD /DNS / Exchange
+
+Windows patch management / deploye managment
+
+System redundency and desoster recovery and bussiness continuity
+  Raid configuration
+  Backup configuration Flat and database (SQL/Oracle/Postgres) Image backup
+  Resource planing
+File storage management and FTP
+
+Network management
+  Switch config
+  Router config
+  Resource planing
+  Trafic management / monitoring
+
+Linux Administration redhat
+Proxmox
+Vmware exsi / backup 
+veritas backup 
+Nagios
+UEMS AGENT
+Sophos
+Crowd strike
+
+Endpoint security.
+
